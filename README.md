@@ -25,3 +25,6 @@ How to run:
 4-> Once these libraries are downloaded now run the main python file named as face-landmarks-detection in python3.
 
 5-> Done face landmark detection in python
+
+Contributer
+-Sanket Muchhala
