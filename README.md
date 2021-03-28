@@ -13,9 +13,12 @@ How to run:
 
 2-> Open python terminal and download opencv using command 
       pip3 install opencv     
+      
 3-> Download dlib library 
       for dlib first install cmake 
       pip3 install cmake
       pip3 install dlib    
+      
 4-> Once these libraries are downloaded now run the main python file named as face-landmarks-detection in python3.
+
 5-> Done face landmark detection in python
