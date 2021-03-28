@@ -10,6 +10,7 @@ A commented line in the code line no 27 is for face detection using inbuilt pyth
 How to run:
 
 1-> Ensure both files .py and .dat file are in same folder once you unzip.
+
 2-> Open python terminal and download opencv using command 
       pip3 install opencv     
 3-> Download dlib library 
